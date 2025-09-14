@@ -51,16 +51,11 @@ O trabalho consistiu em:
    * Distribuição de mutações e câncer por gênero.
    * Criação de **faixas etárias** para observar risco por idade.
 
-   ![Exemplo de gráfico](grafico1.png)
-   *Substitua por gráficos de barras, frequências ou regressão.*
-
 3. **Análise de correlação**
 
    * Relação entre **cada gene e câncer**.
    * Correlação entre **idade e câncer**, mostrando aumento de risco com a idade.
    * Destaque especial para **BRCA1**, gene com maior associação ao câncer de mama/ovário.
-
-   ![Exemplo de correlação](correl2.png)
 
 4. **Visualização e interpretação**
 
@@ -87,6 +82,22 @@ O trabalho consistiu em:
 * Visualizações facilitam a compreensão de padrões de risco.
 
 ---
+## Referências visuais 
+
+### Tabela resumo Faixa Etaria
+![Tabela](fotos/faixa.png)
+
+### Gráfico de frequência Cancer
+![Grafico](fotos/tabela1.png)
+
+### Gráficos por gênero
+![Grafico](fotos/sexo.png)
+
+### Gráfico proporção de cancer por mutação
+![Grafico](fotos/prorp1.png)
+
+### Gráficos de correlação
+![Grafico](fotos/correl2.png)
 
 ## Como usar o notebook
 
