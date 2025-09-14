@@ -1,7 +1,7 @@
 
 # Bioinformática na prática: Genes e Câncer de Mama/Ovário
 
-![Capa](capagene.jpg)
+![Capa](fotos/capagene.jpg)
 
 ---
 
@@ -42,7 +42,7 @@ O trabalho consistiu em:
    * Dados simulados para 200 pessoas com informações de idade, gênero, mutações e ocorrência de câncer.
    * Genes analisados: **BRCA1** (alto risco), **TP53** (moderado) e **MTHFR** (controle).
 
-   ![Exemplo de tabela](tabela1.png)
+   ![Exemplo de tabela](fotos/tabela1.png)
    
 
 2. **Análise exploratória**
@@ -88,7 +88,7 @@ O trabalho consistiu em:
 ![Tabela](fotos/faixa.png)
 
 ### Gráfico de frequência Cancer
-![Grafico](fotos/tabela1.png)
+![Grafico](fotos/grafico1.png)
 
 ### Gráficos por gênero
 ![Grafico](fotos/sexo.png)
