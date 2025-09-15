@@ -94,3 +94,5 @@ O projeto mostrou como a **Bioinformática transforma dados genéticos em inform
 - Rute  
 
 ---
+
+**"A educação é a arma mais poderosa que você pode usar para mudar o mundo." – Nelson Mandela**
