@@ -46,10 +46,13 @@ Trabalho proposto pela **professora de Biologia da FUNEC Inconfidentes**, com o 
 
 ---
 
-## 🧾 Resultados
-- **BRCA1** → Gene mais associado ao câncer de mama/ovário.  
-- **Idade** → Risco maior em pessoas mais velhas.  
-- **Gênero** → Casos mais comuns em mulheres, mas também ocorrem em homens.  
+## 🧾 Genes Estudados
+
+| Gene      | Função Normal 🧩                                                                 | O que acontece na Mutação ⚠️           | Consequências Principais 🩺                                                                                       |
+|-----------|----------------------------------------------------------------------------------|-----------------------------------------|-------------------------------------------------------------------------------------------------------------------|
+| **BRCA1** 🧬 | Repara danos no DNA e mantém a **estabilidade do genoma**                      | Perde a capacidade de corrigir erros no DNA | Aumenta muito o risco de **câncer de mama, ovário e próstata**. Associado a histórico familiar de câncer hereditário |
+| **TP53** 🔒 | Produz a proteína **p53**, conhecida como “guardião do genoma”, que bloqueia células defeituosas | Células danificadas não são eliminadas | Presente em mais de **50% dos cânceres humanos**. Mutação favorece o crescimento descontrolado de tumores           |
+| **MTHFR** 🌱 | Atua no metabolismo do **ácido fólico** e regula os níveis de **homocisteína** | Dificuldades no metabolismo das vitaminas | Pode gerar **homocisteína alta**, aumentando risco de **trombose, doenças cardiovasculares e complicações na gravidez** |
 
 ---
 
